@@ -1,0 +1,104 @@
+body{
+    background-color:#bac2a3 ;
+   
+    
+  }
+  
+  h1{
+    font-size:47px;
+    font-family:cursive;
+    text-align:center;
+    }
+  
+   #leven{
+     
+      width:590px;
+      margin:5px auto 80px;
+      font-family:cursive
+      }
+    #anne{
+        
+        width:200px;
+        height:230px;
+        float:right;
+        margin-right:30px;
+        margin-left:30px;
+        border:solid;
+       }
+  h3{
+    text-align:center ;
+    font-size:30px;
+    font-family:cursive;
+    
+  }
+  
+  #photo{
+    
+    width:200px;
+    margin-left:35px; 
+    margin-right:35px;
+    border:dashed;
+    
+  }
+  
+  .title{
+    width:270px; 
+    text-align:center;
+    text-style:
+    
+    
+  }
+  table{
+     margin: auto
+  }
+  #bezet{
+    
+    margin-left:20px;
+    text-align:center;
+    font-size:23px;
+    font-family:cursive;
+    border:4px solid black;
+    padding:5px;
+    background-color:black;
+    color:white;
+    
+   
+  }
+  .paragraph{
+    
+    width:30%;
+    float: left;
+    margin-left:2%;
+    margin-right:2%;
+    font-family:cursive;
+    border:ridge;
+     padding:0.5%
+  
+  }
+  
+  #paragraph2{
+    width:30%;
+    float: left;
+    margin-left:2%;
+    font-family:cursive;
+    border:ridge;
+    padding:0.5%
+  }
+  
+  
+  .img2{
+    
+    height:750px;
+    width: 30%;
+    float: left;
+    overflow:scroll;
+  }
+  
+  .img2 img{
+    width:300px;
+    height:230px;
+  }
+  .link{
+    color:black;
+    border:dotted;
+  }
